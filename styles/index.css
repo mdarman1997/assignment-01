@@ -1,0 +1,176 @@
+
+
+  
+
+.azeret-mono-normal{
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.landing-page{
+
+    width: 1440px;
+    padding:35px 221px ;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../assets/Hero-bg.png');
+    
+}
+
+header img{
+    width: 240px;
+    height: 240px;
+    display: block;
+    margin-left: 378px;
+    margin-right: 378px;
+}
+
+header button{
+    display: block;
+    margin-left: 378px;
+    margin-right: 378px;
+    background-color: #0D1321;
+    color:#FFFFFF;
+    border-radius: 8px;
+    
+   
+}
+ /* main develop styles */
+ .develop{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    width: 1140px;
+    background-color: #FFFFFF;
+    /* margin: 857px 152px 2995px 148px ; */
+    padding-top: 10px;
+    margin-left: 148px;
+    margin-right: 148px;
+ }
+
+ .develop-content{
+    width: 1440px;
+    display: flex;
+    text-align: left;
+    margin-left: 148px;
+    margin-right: 148px;
+    padding-bottom: 32px;
+    
+ }
+
+ /* inspiration-section */
+.inspiration-section{
+    width: 1440px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 148px;
+    margin-right: 148px;
+    padding-bottom: 32px;
+
+
+ }
+
+ /* target */
+ .target{
+    width: 1440px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 148px;
+    margin-right: 148px;
+    padding-bottom: 32px;
+
+
+ }
+
+ .card{
+    width: 1440px;
+    display: flex;
+    justify-content:space-around;
+    gap:24px;
+    padding:32px;
+    margin: 32px;
+ }
+
+ .skill{
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.html{
+    background-color: rgba(255, 76, 30, 0.05);
+   
+
+}
+
+.css{
+    background-color: rgba(0, 76, 232, 0.05);
+    
+
+}
+
+/* next target */
+.next-target{
+    width: 1440px;
+    display: block;
+    align-items: center;
+    justify-content:center;
+    text-align: center;
+    gap:24px;
+    padding:32px;
+    margin: 32px;
+}
+
+.target-item{
+    width: 1440px; 
+    gap:24px;
+    padding:32px;
+    margin: 32px;
+
+}
+
+.target-2{
+    width: 1440px;
+    display: flex;
+    text-align: left;
+    justify-content: left;
+    margin-left: 148px;
+    margin-right: 148px;
+    padding-bottom: 32px;
+    
+}
+
+.support{
+
+    width: 1440px;
+    display: block;
+    text-align:center;
+    justify-content: center;
+    margin-left: 148px;
+    margin-right: 148px;
+    padding-bottom: 32px;
+    background-image: url('../assets/handshake.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    color:white;
+}
+
+/* footer */
+.footer{
+    width: 1440px;
+    display: flex;
+    text-align:center;
+    justify-content: space-between;
+    margin-left: 148px;
+    margin-right: 148px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
